@@ -11,10 +11,10 @@ A tutorial on visual studio code and data science using python
 
 # Set up environment
 
-- Open terminal 
+- Open terminal
 - Run `conda create -n myenv python=3.7 pandas jupyter seaborn scikit-learn keras tensorflow`
-- Open Command Palette in VS Code 
-- Switch to Python: Select Interpreter 
+- Open Command Palette in VS Code
+- Switch to Python: Select Interpreter
 - Select interpreter similar to `Python 3.7...('myenv':conda)`
 
 # Tutorial
